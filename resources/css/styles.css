@@ -1,0 +1,8 @@
+body {
+    font-family: "Graphik", "Helvetica Neue", helvetica, "Apple Color Emoji", arial, sans-serif;
+    max-width: 600px;
+}
+
+li {
+  margin: 1em 0em;
+}
